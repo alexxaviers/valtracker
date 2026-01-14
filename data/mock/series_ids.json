@@ -1,0 +1,8 @@
+{
+  "example_series": [
+    "series_001",
+    "series_002",
+    "series_003"
+  ],
+  "description": "Example series IDs for testing. Replace with real GRID series IDs."
+}
